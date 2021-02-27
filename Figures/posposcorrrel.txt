@@ -1,0 +1,13 @@
+\centering\begin{tabular}{lcccc}
+	 & Initial pos & $\Delta$pos relax NN & $\Delta$pos relax 2nd NN & $\Delta$pos shear\\
+	\multicolumn{5}{l}{\textbf{Layer-by-layer}}\\
+	Initial pos &  & - - - - - - & - - - - & +++\\
+	$\Delta$pos relax NN &  &  & ++++ & - - - - -\\
+	$\Delta$pos relax 2nd NN &  &  &  & - - - - -\\
+	$\Delta$pos shear &  &  &  & \\
+	\multicolumn{5}{l}{\textbf{Bath}}\\
+	Initial pos &  & - - - - & - - - & +++\\
+	$\Delta$pos relax NN &  &  & +++++ & - - - - -\\
+	$\Delta$pos relax 2nd NN &  &  &  & - - - - - -\\
+	$\Delta$pos shear &  &  &  & 
+\end{tabular}

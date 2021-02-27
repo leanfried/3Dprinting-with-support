@@ -1,0 +1,8 @@
+\begin{enumerate}
+	\item There is no barrier to spreading on the outer edge.
+	\item The center of gravity settles lower onto the substrate, widening the line.
+	\item On pass 1 and 2, the deposited line shifts outward, but on the last pass, the line is bordered on both sides by support, so it does not shift due to gravity.
+	\item On pass 1 and 2, the deposited line spreads, but on the last pass, the line is bordered on both sides by support, so it does not spread due to gravity.
+	\item Increasing the TEGDMA content and increasing the print speed decreases the ink viscosity, decreasing its resistance to spreading.
+	\item Increasing the translation speed decreases the relaxation time, decreasing changes due to relaxation.
+\end{enumerate}

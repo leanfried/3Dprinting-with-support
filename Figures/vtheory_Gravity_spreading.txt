@@ -1,0 +1,12 @@
+\centering\begin{tabular}{llcccccccccc}
+ &  & \rotatebox{90}{nozzle} & \rotatebox{90}{ahead} & \rotatebox{90}{just behind} & \rotatebox{90}{behind outer} & \rotatebox{90}{far behind} & \rotatebox{90}{behind NN} & \rotatebox{90}{behind 2NN} & \rotatebox{90}{outer} & \rotatebox{90}{NN} & \rotatebox{90}{2NN}\\
+\multirow{4}{*}{Layer by layer} & Average & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$\\
+ & Change w/ pass & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$\\
+ & Change w/ TEGDMA & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$\\
+ & Change w/ speed & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$\\
+\hline
+\multirow{4}{*}{Bath} & Average &  &  &  &  &  &  &  &  &  & \\
+ & Change w/ pass &  &  &  &  &  &  &  &  &  & \\
+ & Change w/ TEGDMA &  &  &  &  &  &  &  &  &  & \\
+ & Change w/ speed &  &  &  &  &  &  &  &  &  & 
+\end{tabular}

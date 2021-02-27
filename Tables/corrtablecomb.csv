@@ -1,0 +1,307 @@
+i,j,i title,j title,mode,tau,p,sign,sign+,significant
+10,12,vx nozzle (mm/s),vx ahead (mm/s),3,0.0096,0.5581,,,False
+10,12,vx nozzle (mm/s),vx ahead (mm/s),2,0.1482,0.e-5,++,+,True
+10,14,vx nozzle (mm/s),vx just behind (mm/s),3,0.1292,0.e-5,++,+,True
+10,14,vx nozzle (mm/s),vx just behind (mm/s),2,-0.0371,0.0248,-,-,True
+12,14,vx ahead (mm/s),vx just behind (mm/s),3,-0.0576,0.0004,-,-,True
+12,14,vx ahead (mm/s),vx just behind (mm/s),2,-0.012,0.4625,,,False
+10,16,vx nozzle (mm/s),vx behind left (mm/s),3,0.0055,0.7385,,,False
+10,16,vx nozzle (mm/s),vx behind left (mm/s),2,-0.0241,0.1438,,,False
+12,16,vx ahead (mm/s),vx behind left (mm/s),3,0.0423,0.0098,+,+,True
+12,16,vx ahead (mm/s),vx behind left (mm/s),2,0.1014,0.e-5,++,+,True
+14,16,vx just behind (mm/s),vx behind left (mm/s),3,0.1808,0.e-5,++,+,True
+14,16,vx just behind (mm/s),vx behind left (mm/s),2,0.1068,0.e-5,++,+,True
+10,18,vx nozzle (mm/s),vx behind 0 (mm/s),3,0.0971,0.e-5,+,+,True
+10,18,vx nozzle (mm/s),vx behind 0 (mm/s),2,0.0046,0.7795,,,False
+12,18,vx ahead (mm/s),vx behind 0 (mm/s),3,0.0332,0.0429,+,+,True
+12,18,vx ahead (mm/s),vx behind 0 (mm/s),2,0.0199,0.224,,,False
+14,18,vx just behind (mm/s),vx behind 0 (mm/s),3,0.3418,0.e-5,++++,+,True
+14,18,vx just behind (mm/s),vx behind 0 (mm/s),2,0.322,0.e-5,++++,+,True
+16,18,vx behind left (mm/s),vx behind 0 (mm/s),3,0.0528,0.0013,+,+,True
+16,18,vx behind left (mm/s),vx behind 0 (mm/s),2,0.218,0.e-5,+++,+,True
+10,20,vx nozzle (mm/s),vx behind 1 (mm/s),3,0.0856,0.e-5,+,+,True
+10,20,vx nozzle (mm/s),vx behind 1 (mm/s),2,0.0063,0.7044,,,False
+12,20,vx ahead (mm/s),vx behind 1 (mm/s),3,-0.0518,0.0016,-,-,True
+12,20,vx ahead (mm/s),vx behind 1 (mm/s),2,-0.0898,0.e-5,-,-,True
+14,20,vx just behind (mm/s),vx behind 1 (mm/s),3,0.1756,0.e-5,++,+,True
+14,20,vx just behind (mm/s),vx behind 1 (mm/s),2,0.2483,0.e-5,+++,+,True
+16,20,vx behind left (mm/s),vx behind 1 (mm/s),3,-0.1935,0.e-5,--,-,True
+16,20,vx behind left (mm/s),vx behind 1 (mm/s),2,0.0892,0.e-5,+,+,True
+18,20,vx behind 0 (mm/s),vx behind 1 (mm/s),3,0.4218,0.e-5,+++++,+,True
+18,20,vx behind 0 (mm/s),vx behind 1 (mm/s),2,0.2815,0.e-5,+++,+,True
+10,22,vx nozzle (mm/s),vx behind 2 (mm/s),3,0.0244,0.1369,,,False
+10,22,vx nozzle (mm/s),vx behind 2 (mm/s),2,0.0539,0.0011,+,+,True
+12,22,vx ahead (mm/s),vx behind 2 (mm/s),3,-0.0756,0.e-5,-,-,True
+12,22,vx ahead (mm/s),vx behind 2 (mm/s),2,-0.0216,0.1879,,,False
+14,22,vx just behind (mm/s),vx behind 2 (mm/s),3,0.049,0.0028,+,+,True
+14,22,vx just behind (mm/s),vx behind 2 (mm/s),2,0.0916,0.e-5,+,+,True
+16,22,vx behind left (mm/s),vx behind 2 (mm/s),3,-0.2248,0.e-5,---,-,True
+16,22,vx behind left (mm/s),vx behind 2 (mm/s),2,0.1199,0.e-5,++,+,True
+18,22,vx behind 0 (mm/s),vx behind 2 (mm/s),3,0.2131,0.e-5,+++,+,True
+18,22,vx behind 0 (mm/s),vx behind 2 (mm/s),2,0.1923,0.e-5,++,+,True
+20,22,vx behind 1 (mm/s),vx behind 2 (mm/s),3,0.4532,0.e-5,+++++,+,True
+20,22,vx behind 1 (mm/s),vx behind 2 (mm/s),2,0.2945,0.e-5,+++,+,True
+10,24,vx nozzle (mm/s),vx left (mm/s),3,0.0644,0.e-4,+,+,True
+10,24,vx nozzle (mm/s),vx left (mm/s),2,0.0172,0.2982,,,False
+12,24,vx ahead (mm/s),vx left (mm/s),3,0.104,0.e-5,++,+,True
+12,24,vx ahead (mm/s),vx left (mm/s),2,0.1928,0.e-5,++,+,True
+14,24,vx just behind (mm/s),vx left (mm/s),3,0.109,0.e-5,++,+,True
+14,24,vx just behind (mm/s),vx left (mm/s),2,0.1726,0.e-5,++,+,True
+16,24,vx behind left (mm/s),vx left (mm/s),3,0.0973,0.e-5,+,+,True
+16,24,vx behind left (mm/s),vx left (mm/s),2,0.2282,0.e-5,+++,+,True
+18,24,vx behind 0 (mm/s),vx left (mm/s),3,0.1711,0.e-5,++,+,True
+18,24,vx behind 0 (mm/s),vx left (mm/s),2,0.0433,0.0081,+,+,True
+20,24,vx behind 1 (mm/s),vx left (mm/s),3,0.0965,0.e-5,+,+,True
+20,24,vx behind 1 (mm/s),vx left (mm/s),2,0.0336,0.0404,+,+,True
+22,24,vx behind 2 (mm/s),vx left (mm/s),3,0.0826,0.e-5,+,+,True
+22,24,vx behind 2 (mm/s),vx left (mm/s),2,0.0136,0.4059,,,False
+10,26,vx nozzle (mm/s),vx right 1 (mm/s),3,0.1415,0.e-5,++,+,True
+10,26,vx nozzle (mm/s),vx right 1 (mm/s),2,0.1147,0.e-5,++,+,True
+12,26,vx ahead (mm/s),vx right 1 (mm/s),3,0.1491,0.e-5,++,+,True
+12,26,vx ahead (mm/s),vx right 1 (mm/s),2,0.19,0.e-5,++,+,True
+14,26,vx just behind (mm/s),vx right 1 (mm/s),3,0.2138,0.e-5,+++,+,True
+14,26,vx just behind (mm/s),vx right 1 (mm/s),2,0.2647,0.e-5,+++,+,True
+16,26,vx behind left (mm/s),vx right 1 (mm/s),3,0.0196,0.2325,,,False
+16,26,vx behind left (mm/s),vx right 1 (mm/s),2,0.0854,0.e-5,+,+,True
+18,26,vx behind 0 (mm/s),vx right 1 (mm/s),3,0.1531,0.e-5,++,+,True
+18,26,vx behind 0 (mm/s),vx right 1 (mm/s),2,0.2109,0.e-5,+++,+,True
+20,26,vx behind 1 (mm/s),vx right 1 (mm/s),3,0.061,0.0002,+,+,True
+20,26,vx behind 1 (mm/s),vx right 1 (mm/s),2,0.132,0.e-5,++,+,True
+22,26,vx behind 2 (mm/s),vx right 1 (mm/s),3,-0.0178,0.2782,,,False
+22,26,vx behind 2 (mm/s),vx right 1 (mm/s),2,0.0882,0.e-5,+,+,True
+24,26,vx left (mm/s),vx right 1 (mm/s),3,0.0339,0.0387,+,+,True
+24,26,vx left (mm/s),vx right 1 (mm/s),2,0.0441,0.007,+,+,True
+10,28,vx nozzle (mm/s),vx right 2 (mm/s),3,0.0483,0.0032,+,+,True
+10,28,vx nozzle (mm/s),vx right 2 (mm/s),2,0.1052,0.e-5,++,+,True
+12,28,vx ahead (mm/s),vx right 2 (mm/s),3,-0.0059,0.7197,,,False
+12,28,vx ahead (mm/s),vx right 2 (mm/s),2,0.0773,0.e-5,+,+,True
+14,28,vx just behind (mm/s),vx right 2 (mm/s),3,0.1254,0.e-5,++,+,True
+14,28,vx just behind (mm/s),vx right 2 (mm/s),2,0.1153,0.e-5,++,+,True
+16,28,vx behind left (mm/s),vx right 2 (mm/s),3,-0.0994,0.e-5,-,-,True
+16,28,vx behind left (mm/s),vx right 2 (mm/s),2,0.0892,0.e-5,+,+,True
+18,28,vx behind 0 (mm/s),vx right 2 (mm/s),3,0.1724,0.e-5,++,+,True
+18,28,vx behind 0 (mm/s),vx right 2 (mm/s),2,0.1636,0.e-5,++,+,True
+20,28,vx behind 1 (mm/s),vx right 2 (mm/s),3,0.1967,0.e-5,++,+,True
+20,28,vx behind 1 (mm/s),vx right 2 (mm/s),2,0.1659,0.e-5,++,+,True
+22,28,vx behind 2 (mm/s),vx right 2 (mm/s),3,0.1677,0.e-5,++,+,True
+22,28,vx behind 2 (mm/s),vx right 2 (mm/s),2,0.1455,0.e-5,++,+,True
+24,28,vx left (mm/s),vx right 2 (mm/s),3,0.0715,0.e-4,+,+,True
+24,28,vx left (mm/s),vx right 2 (mm/s),2,0.0625,0.0001,+,+,True
+26,28,vx right 1 (mm/s),vx right 2 (mm/s),3,0.2381,0.e-5,+++,+,True
+26,28,vx right 1 (mm/s),vx right 2 (mm/s),2,0.2894,0.e-5,+++,+,True
+10,30,vx nozzle (mm/s),pos (mm) init,3,-0.019,0.2461,,,False
+10,30,vx nozzle (mm/s),pos (mm) init,2,0.0478,0.0038,+,+,True
+12,30,vx ahead (mm/s),pos (mm) init,3,-0.0928,0.e-5,-,-,True
+12,30,vx ahead (mm/s),pos (mm) init,2,0.1013,0.e-5,++,+,True
+14,30,vx just behind (mm/s),pos (mm) init,3,0.0244,0.1361,,,False
+14,30,vx just behind (mm/s),pos (mm) init,2,-0.0369,0.024,-,-,True
+16,30,vx behind left (mm/s),pos (mm) init,3,0.0851,0.e-5,+,+,True
+16,30,vx behind left (mm/s),pos (mm) init,2,0.0048,0.7692,,,False
+18,30,vx behind 0 (mm/s),pos (mm) init,3,0.0665,0.e-4,+,+,True
+18,30,vx behind 0 (mm/s),pos (mm) init,2,-0.0874,0.e-5,-,-,True
+20,30,vx behind 1 (mm/s),pos (mm) init,3,0.067,0.e-4,+,+,True
+20,30,vx behind 1 (mm/s),pos (mm) init,2,-0.0821,0.e-5,-,-,True
+22,30,vx behind 2 (mm/s),pos (mm) init,3,0.0432,0.0083,+,+,True
+22,30,vx behind 2 (mm/s),pos (mm) init,2,-0.0944,0.e-5,-,-,True
+24,30,vx left (mm/s),pos (mm) init,3,0.047,0.0041,+,+,True
+24,30,vx left (mm/s),pos (mm) init,2,0.1367,0.e-5,++,+,True
+26,30,vx right 1 (mm/s),pos (mm) init,3,-0.12,0.e-5,--,-,True
+26,30,vx right 1 (mm/s),pos (mm) init,2,-0.0017,0.9177,,,False
+28,30,vx right 2 (mm/s),pos (mm) init,3,-0.0737,0.e-5,-,-,True
+28,30,vx right 2 (mm/s),pos (mm) init,2,-0.024,0.1432,,,False
+10,36,vx nozzle (mm/s),pos (mm) Δrelax NN,3,-0.0779,0.e-5,-,-,True
+10,36,vx nozzle (mm/s),pos (mm) Δrelax NN,2,-0.0641,0.0001,-,-,True
+12,36,vx ahead (mm/s),pos (mm) Δrelax NN,3,0.0176,0.283,,,False
+12,36,vx ahead (mm/s),pos (mm) Δrelax NN,2,-0.0213,0.1937,,,False
+14,36,vx just behind (mm/s),pos (mm) Δrelax NN,3,0.0126,0.4431,,,False
+14,36,vx just behind (mm/s),pos (mm) Δrelax NN,2,0.0773,0.e-5,+,+,True
+16,36,vx behind left (mm/s),pos (mm) Δrelax NN,3,0.0209,0.2023,,,False
+16,36,vx behind left (mm/s),pos (mm) Δrelax NN,2,0.0733,0.e-5,+,+,True
+18,36,vx behind 0 (mm/s),pos (mm) Δrelax NN,3,-0.0441,0.0071,-,-,True
+18,36,vx behind 0 (mm/s),pos (mm) Δrelax NN,2,0.0731,0.e-5,+,+,True
+20,36,vx behind 1 (mm/s),pos (mm) Δrelax NN,3,-0.0607,0.0002,-,-,True
+20,36,vx behind 1 (mm/s),pos (mm) Δrelax NN,2,0.0935,0.e-5,+,+,True
+22,36,vx behind 2 (mm/s),pos (mm) Δrelax NN,3,-0.0269,0.0998,,,False
+22,36,vx behind 2 (mm/s),pos (mm) Δrelax NN,2,0.0984,0.e-5,+,+,True
+24,36,vx left (mm/s),pos (mm) Δrelax NN,3,-0.0449,0.0061,-,-,True
+24,36,vx left (mm/s),pos (mm) Δrelax NN,2,0.0242,0.14,,,False
+26,36,vx right 1 (mm/s),pos (mm) Δrelax NN,3,0.0567,0.0005,+,+,True
+26,36,vx right 1 (mm/s),pos (mm) Δrelax NN,2,0.0196,0.2298,,,False
+28,36,vx right 2 (mm/s),pos (mm) Δrelax NN,3,0.1111,0.e-5,++,+,True
+28,36,vx right 2 (mm/s),pos (mm) Δrelax NN,2,0.0284,0.0829,,,False
+30,36,pos (mm) init,pos (mm) Δrelax NN,3,-0.384,0.e-5,----,-,True
+30,36,pos (mm) init,pos (mm) Δrelax NN,2,-0.5093,0.e-5,------,-,True
+34,36,width (normalized) init,pos (mm) Δrelax NN,3,-0.016,0.3271,,,False
+34,36,width (normalized) init,pos (mm) Δrelax NN,2,0.1595,0.e-5,++,+,True
+10,42,vx nozzle (mm/s),pos (mm) Δrelax 2nd NN,3,-0.0395,0.0158,-,-,True
+10,42,vx nozzle (mm/s),pos (mm) Δrelax 2nd NN,2,-0.0237,0.1508,,,False
+12,42,vx ahead (mm/s),pos (mm) Δrelax 2nd NN,3,-0.0254,0.1214,,,False
+12,42,vx ahead (mm/s),pos (mm) Δrelax 2nd NN,2,-0.0596,0.0003,-,-,True
+14,42,vx just behind (mm/s),pos (mm) Δrelax 2nd NN,3,0.0033,0.8394,,,False
+14,42,vx just behind (mm/s),pos (mm) Δrelax 2nd NN,2,0.0923,0.e-5,+,+,True
+16,42,vx behind left (mm/s),pos (mm) Δrelax 2nd NN,3,-0.1011,0.e-5,--,-,True
+16,42,vx behind left (mm/s),pos (mm) Δrelax 2nd NN,2,0.0626,0.0001,+,+,True
+18,42,vx behind 0 (mm/s),pos (mm) Δrelax 2nd NN,3,0.0004,0.9807,,,False
+18,42,vx behind 0 (mm/s),pos (mm) Δrelax 2nd NN,2,0.0704,0.e-4,+,+,True
+20,42,vx behind 1 (mm/s),pos (mm) Δrelax 2nd NN,3,0.0819,0.e-5,+,+,True
+20,42,vx behind 1 (mm/s),pos (mm) Δrelax 2nd NN,2,0.1133,0.e-5,++,+,True
+22,42,vx behind 2 (mm/s),pos (mm) Δrelax 2nd NN,3,0.093,0.e-5,+,+,True
+22,42,vx behind 2 (mm/s),pos (mm) Δrelax 2nd NN,2,0.0676,0.e-4,+,+,True
+24,42,vx left (mm/s),pos (mm) Δrelax 2nd NN,3,0.0383,0.0194,+,+,True
+24,42,vx left (mm/s),pos (mm) Δrelax 2nd NN,2,0.0338,0.0388,+,+,True
+26,42,vx right 1 (mm/s),pos (mm) Δrelax 2nd NN,3,0.0032,0.8445,,,False
+26,42,vx right 1 (mm/s),pos (mm) Δrelax 2nd NN,2,0.0431,0.0085,+,+,True
+28,42,vx right 2 (mm/s),pos (mm) Δrelax 2nd NN,3,0.1376,0.e-5,++,+,True
+28,42,vx right 2 (mm/s),pos (mm) Δrelax 2nd NN,2,0.0137,0.4029,,,False
+30,42,pos (mm) init,pos (mm) Δrelax 2nd NN,3,-0.2087,0.e-5,---,-,True
+30,42,pos (mm) init,pos (mm) Δrelax 2nd NN,2,-0.3264,0.e-5,----,-,True
+36,42,pos (mm) Δrelax NN,pos (mm) Δrelax 2nd NN,3,0.4062,0.e-5,+++++,+,True
+36,42,pos (mm) Δrelax NN,pos (mm) Δrelax 2nd NN,2,0.3992,0.e-5,++++,+,True
+34,42,width (normalized) init,pos (mm) Δrelax 2nd NN,3,-0.1899,0.e-5,--,-,True
+34,42,width (normalized) init,pos (mm) Δrelax 2nd NN,2,0.1709,0.e-5,++,+,True
+40,42,width (normalized) Δrelax NN,pos (mm) Δrelax 2nd NN,3,0.0499,0.0023,+,+,True
+40,42,width (normalized) Δrelax NN,pos (mm) Δrelax 2nd NN,2,-0.1128,0.e-5,--,-,True
+10,48,vx nozzle (mm/s),pos (mm) Δshear,3,0.0976,0.e-5,+,+,True
+10,48,vx nozzle (mm/s),pos (mm) Δshear,2,-0.0048,0.7727,,,False
+12,48,vx ahead (mm/s),pos (mm) Δshear,3,-0.0258,0.1152,,,False
+12,48,vx ahead (mm/s),pos (mm) Δshear,2,0.0007,0.9638,,,False
+14,48,vx just behind (mm/s),pos (mm) Δshear,3,-0.0174,0.2868,,,False
+14,48,vx just behind (mm/s),pos (mm) Δshear,2,-0.0777,0.e-5,-,-,True
+16,48,vx behind left (mm/s),pos (mm) Δshear,3,-0.0077,0.6382,,,False
+16,48,vx behind left (mm/s),pos (mm) Δshear,2,-0.0006,0.9702,,,False
+18,48,vx behind 0 (mm/s),pos (mm) Δshear,3,0.0051,0.7552,,,False
+18,48,vx behind 0 (mm/s),pos (mm) Δshear,2,-0.0596,0.0003,-,-,True
+20,48,vx behind 1 (mm/s),pos (mm) Δshear,3,0.0058,0.7233,,,False
+20,48,vx behind 1 (mm/s),pos (mm) Δshear,2,-0.0821,0.e-5,-,-,True
+22,48,vx behind 2 (mm/s),pos (mm) Δshear,3,-0.0176,0.2834,,,False
+22,48,vx behind 2 (mm/s),pos (mm) Δshear,2,-0.07,0.e-4,-,-,True
+24,48,vx left (mm/s),pos (mm) Δshear,3,-0.007,0.6707,,,False
+24,48,vx left (mm/s),pos (mm) Δshear,2,-0.0347,0.0341,-,-,True
+26,48,vx right 1 (mm/s),pos (mm) Δshear,3,-0.0206,0.2094,,,False
+26,48,vx right 1 (mm/s),pos (mm) Δshear,2,-0.0539,0.001,-,-,True
+28,48,vx right 2 (mm/s),pos (mm) Δshear,3,-0.1213,0.e-5,--,-,True
+28,48,vx right 2 (mm/s),pos (mm) Δshear,2,-0.0509,0.0019,-,-,True
+30,48,pos (mm) init,pos (mm) Δshear,3,0.2818,0.e-5,+++,+,True
+30,48,pos (mm) init,pos (mm) Δshear,2,0.2726,0.e-5,+++,+,True
+36,48,pos (mm) Δrelax NN,pos (mm) Δshear,3,-0.4986,0.e-5,-----,-,True
+36,48,pos (mm) Δrelax NN,pos (mm) Δshear,2,-0.4236,0.e-5,-----,-,True
+42,48,pos (mm) Δrelax 2nd NN,pos (mm) Δshear,3,-0.5053,0.e-5,------,-,True
+42,48,pos (mm) Δrelax 2nd NN,pos (mm) Δshear,2,-0.4308,0.e-5,-----,-,True
+34,48,width (normalized) init,pos (mm) Δshear,3,0.098,0.e-5,+,+,True
+34,48,width (normalized) init,pos (mm) Δshear,2,-0.081,0.e-5,-,-,True
+40,48,width (normalized) Δrelax NN,pos (mm) Δshear,3,-0.0263,0.1086,,,False
+40,48,width (normalized) Δrelax NN,pos (mm) Δshear,2,0.0556,0.0007,+,+,True
+46,48,width (normalized) Δrelax 2nd NN,pos (mm) Δshear,3,0.1054,0.e-5,++,+,True
+46,48,width (normalized) Δrelax 2nd NN,pos (mm) Δshear,2,0.1128,0.e-5,++,+,True
+10,34,vx nozzle (mm/s),width (normalized) init,3,-0.024,0.1423,,,False
+10,34,vx nozzle (mm/s),width (normalized) init,2,-0.0672,0.e-4,-,-,True
+12,34,vx ahead (mm/s),width (normalized) init,3,0.0613,0.0002,+,+,True
+12,34,vx ahead (mm/s),width (normalized) init,2,0.0409,0.0124,+,+,True
+14,34,vx just behind (mm/s),width (normalized) init,3,0.097,0.e-5,+,+,True
+14,34,vx just behind (mm/s),width (normalized) init,2,0.0109,0.5039,,,False
+16,34,vx behind left (mm/s),width (normalized) init,3,0.2811,0.e-5,+++,+,True
+16,34,vx behind left (mm/s),width (normalized) init,2,0.2216,0.e-5,+++,+,True
+18,34,vx behind 0 (mm/s),width (normalized) init,3,0.0488,0.0029,+,+,True
+18,34,vx behind 0 (mm/s),width (normalized) init,2,0.0575,0.0004,+,+,True
+20,34,vx behind 1 (mm/s),width (normalized) init,3,-0.15,0.e-5,--,-,True
+20,34,vx behind 1 (mm/s),width (normalized) init,2,0.0555,0.0007,+,+,True
+22,34,vx behind 2 (mm/s),width (normalized) init,3,-0.1639,0.e-5,--,-,True
+22,34,vx behind 2 (mm/s),width (normalized) init,2,0.0657,0.e-4,+,+,True
+24,34,vx left (mm/s),width (normalized) init,3,-0.084,0.e-5,-,-,True
+24,34,vx left (mm/s),width (normalized) init,2,0.0587,0.0003,+,+,True
+26,34,vx right 1 (mm/s),width (normalized) init,3,0.1069,0.e-5,++,+,True
+26,34,vx right 1 (mm/s),width (normalized) init,2,-0.01,0.5429,,,False
+28,34,vx right 2 (mm/s),width (normalized) init,3,-0.0882,0.e-5,-,-,True
+28,34,vx right 2 (mm/s),width (normalized) init,2,-0.0225,0.169,,,False
+30,34,pos (mm) init,width (normalized) init,3,0.1129,0.e-5,++,+,True
+30,34,pos (mm) init,width (normalized) init,2,-0.157,0.e-5,--,-,True
+10,40,vx nozzle (mm/s),width (normalized) Δrelax NN,3,-0.0552,0.0007,-,-,True
+10,40,vx nozzle (mm/s),width (normalized) Δrelax NN,2,0.0362,0.0283,+,+,True
+12,40,vx ahead (mm/s),width (normalized) Δrelax NN,3,-0.0382,0.0197,-,-,True
+12,40,vx ahead (mm/s),width (normalized) Δrelax NN,2,-0.0301,0.0658,,,False
+14,40,vx just behind (mm/s),width (normalized) Δrelax NN,3,-0.0695,0.e-4,-,-,True
+14,40,vx just behind (mm/s),width (normalized) Δrelax NN,2,0.0308,0.0598,,,False
+16,40,vx behind left (mm/s),width (normalized) Δrelax NN,3,-0.1505,0.e-5,--,-,True
+16,40,vx behind left (mm/s),width (normalized) Δrelax NN,2,-0.1054,0.e-5,--,-,True
+18,40,vx behind 0 (mm/s),width (normalized) Δrelax NN,3,-0.0726,0.e-5,-,-,True
+18,40,vx behind 0 (mm/s),width (normalized) Δrelax NN,2,0.0372,0.0229,+,+,True
+20,40,vx behind 1 (mm/s),width (normalized) Δrelax NN,3,0.0309,0.0588,,,False
+20,40,vx behind 1 (mm/s),width (normalized) Δrelax NN,2,-0.0131,0.4221,,,False
+22,40,vx behind 2 (mm/s),width (normalized) Δrelax NN,3,0.0242,0.1394,,,False
+22,40,vx behind 2 (mm/s),width (normalized) Δrelax NN,2,-0.0266,0.104,,,False
+24,40,vx left (mm/s),width (normalized) Δrelax NN,3,-0.0125,0.4451,,,False
+24,40,vx left (mm/s),width (normalized) Δrelax NN,2,-0.0621,0.0002,-,-,True
+26,40,vx right 1 (mm/s),width (normalized) Δrelax NN,3,-0.1045,0.e-5,--,-,True
+26,40,vx right 1 (mm/s),width (normalized) Δrelax NN,2,0.0239,0.1444,,,False
+28,40,vx right 2 (mm/s),width (normalized) Δrelax NN,3,-0.0168,0.3044,,,False
+28,40,vx right 2 (mm/s),width (normalized) Δrelax NN,2,0.0048,0.7685,,,False
+30,40,pos (mm) init,width (normalized) Δrelax NN,3,-0.1413,0.e-5,--,-,True
+30,40,pos (mm) init,width (normalized) Δrelax NN,2,-0.0223,0.1726,,,False
+36,40,pos (mm) Δrelax NN,width (normalized) Δrelax NN,3,0.0039,0.8102,,,False
+36,40,pos (mm) Δrelax NN,width (normalized) Δrelax NN,2,0.0063,0.6987,,,False
+34,40,width (normalized) init,width (normalized) Δrelax NN,3,-0.3967,0.e-5,----,-,True
+34,40,width (normalized) init,width (normalized) Δrelax NN,2,-0.3176,0.e-5,----,-,True
+10,46,vx nozzle (mm/s),width (normalized) Δrelax 2nd NN,3,-0.0087,0.5965,,,False
+10,46,vx nozzle (mm/s),width (normalized) Δrelax 2nd NN,2,-0.012,0.4662,,,False
+12,46,vx ahead (mm/s),width (normalized) Δrelax 2nd NN,3,0.03,0.0673,,,False
+12,46,vx ahead (mm/s),width (normalized) Δrelax 2nd NN,2,0.0705,0.e-4,+,+,True
+14,46,vx just behind (mm/s),width (normalized) Δrelax 2nd NN,3,0.0677,0.e-4,+,+,True
+14,46,vx just behind (mm/s),width (normalized) Δrelax 2nd NN,2,-0.0161,0.3251,,,False
+16,46,vx behind left (mm/s),width (normalized) Δrelax 2nd NN,3,0.1166,0.e-5,++,+,True
+16,46,vx behind left (mm/s),width (normalized) Δrelax 2nd NN,2,0.0116,0.4773,,,False
+18,46,vx behind 0 (mm/s),width (normalized) Δrelax 2nd NN,3,0.0285,0.0814,,,False
+18,46,vx behind 0 (mm/s),width (normalized) Δrelax 2nd NN,2,-0.0058,0.7251,,,False
+20,46,vx behind 1 (mm/s),width (normalized) Δrelax 2nd NN,3,-0.0487,0.0029,-,-,True
+20,46,vx behind 1 (mm/s),width (normalized) Δrelax 2nd NN,2,-0.087,0.e-5,-,-,True
+22,46,vx behind 2 (mm/s),width (normalized) Δrelax 2nd NN,3,-0.0732,0.e-5,-,-,True
+22,46,vx behind 2 (mm/s),width (normalized) Δrelax 2nd NN,2,-0.0471,0.004,-,-,True
+24,46,vx left (mm/s),width (normalized) Δrelax 2nd NN,3,0.0747,0.e-5,+,+,True
+24,46,vx left (mm/s),width (normalized) Δrelax 2nd NN,2,0.0472,0.0039,+,+,True
+26,46,vx right 1 (mm/s),width (normalized) Δrelax 2nd NN,3,-0.0079,0.6281,,,False
+26,46,vx right 1 (mm/s),width (normalized) Δrelax 2nd NN,2,0.0196,0.2298,,,False
+28,46,vx right 2 (mm/s),width (normalized) Δrelax 2nd NN,3,-0.0526,0.0013,-,-,True
+28,46,vx right 2 (mm/s),width (normalized) Δrelax 2nd NN,2,-0.0053,0.7481,,,False
+30,46,pos (mm) init,width (normalized) Δrelax 2nd NN,3,0.1129,0.e-5,++,+,True
+30,46,pos (mm) init,width (normalized) Δrelax 2nd NN,2,0.1242,0.e-5,++,+,True
+36,46,pos (mm) Δrelax NN,width (normalized) Δrelax 2nd NN,3,-0.1044,0.e-5,--,-,True
+36,46,pos (mm) Δrelax NN,width (normalized) Δrelax 2nd NN,2,-0.0719,0.e-4,-,-,True
+42,46,pos (mm) Δrelax 2nd NN,width (normalized) Δrelax 2nd NN,3,-0.2513,0.e-5,---,-,True
+42,46,pos (mm) Δrelax 2nd NN,width (normalized) Δrelax 2nd NN,2,-0.2461,0.e-5,---,-,True
+34,46,width (normalized) init,width (normalized) Δrelax 2nd NN,3,0.0193,0.2385,,,False
+34,46,width (normalized) init,width (normalized) Δrelax 2nd NN,2,-0.1153,0.e-5,--,-,True
+40,46,width (normalized) Δrelax NN,width (normalized) Δrelax 2nd NN,3,0.1474,0.e-5,++,+,True
+40,46,width (normalized) Δrelax NN,width (normalized) Δrelax 2nd NN,2,0.2547,0.e-5,+++,+,True
+10,52,vx nozzle (mm/s),width (normalized) Δshear,3,0.0648,0.e-4,+,+,True
+10,52,vx nozzle (mm/s),width (normalized) Δshear,2,0.0037,0.8215,,,False
+12,52,vx ahead (mm/s),width (normalized) Δshear,3,0.0008,0.9621,,,False
+12,52,vx ahead (mm/s),width (normalized) Δshear,2,-0.0463,0.0047,-,-,True
+14,52,vx just behind (mm/s),width (normalized) Δshear,3,-0.0793,0.e-5,-,-,True
+14,52,vx just behind (mm/s),width (normalized) Δshear,2,-0.028,0.0865,,,False
+16,52,vx behind left (mm/s),width (normalized) Δshear,3,-0.1702,0.e-5,--,-,True
+16,52,vx behind left (mm/s),width (normalized) Δshear,2,-0.0764,0.e-5,-,-,True
+18,52,vx behind 0 (mm/s),width (normalized) Δshear,3,0.0097,0.5548,,,False
+18,52,vx behind 0 (mm/s),width (normalized) Δshear,2,-0.0316,0.0531,,,False
+20,52,vx behind 1 (mm/s),width (normalized) Δshear,3,0.1042,0.e-5,++,+,True
+20,52,vx behind 1 (mm/s),width (normalized) Δshear,2,0.0361,0.0273,+,+,True
+22,52,vx behind 2 (mm/s),width (normalized) Δshear,3,0.121,0.e-5,++,+,True
+22,52,vx behind 2 (mm/s),width (normalized) Δshear,2,0.0309,0.0588,,,False
+24,52,vx left (mm/s),width (normalized) Δshear,3,-0.0293,0.0739,,,False
+24,52,vx left (mm/s),width (normalized) Δshear,2,-0.0536,0.0011,-,-,True
+26,52,vx right 1 (mm/s),width (normalized) Δshear,3,0.0486,0.003,+,+,True
+26,52,vx right 1 (mm/s),width (normalized) Δshear,2,-0.0017,0.9192,,,False
+28,52,vx right 2 (mm/s),width (normalized) Δshear,3,0.1141,0.e-5,++,+,True
+28,52,vx right 2 (mm/s),width (normalized) Δshear,2,0.0545,0.0009,+,+,True
+30,52,pos (mm) init,width (normalized) Δshear,3,-0.1277,0.e-5,--,-,True
+30,52,pos (mm) init,width (normalized) Δshear,2,-0.036,0.0278,-,-,True
+36,52,pos (mm) Δrelax NN,width (normalized) Δshear,3,0.0711,0.e-4,+,+,True
+36,52,pos (mm) Δrelax NN,width (normalized) Δshear,2,0.0301,0.0657,,,False
+42,52,pos (mm) Δrelax 2nd NN,width (normalized) Δshear,3,0.1659,0.e-5,++,+,True
+42,52,pos (mm) Δrelax 2nd NN,width (normalized) Δshear,2,0.1029,0.e-5,++,+,True
+48,52,pos (mm) Δshear,width (normalized) Δshear,3,-0.1045,0.e-5,--,-,True
+48,52,pos (mm) Δshear,width (normalized) Δshear,2,-0.1378,0.e-5,--,-,True
+34,52,width (normalized) init,width (normalized) Δshear,3,-0.1012,0.e-5,--,-,True
+34,52,width (normalized) init,width (normalized) Δshear,2,-0.0548,0.0008,-,-,True
+40,52,width (normalized) Δrelax NN,width (normalized) Δshear,3,-0.2197,0.e-5,---,-,True
+40,52,width (normalized) Δrelax NN,width (normalized) Δshear,2,-0.2732,0.e-5,---,-,True
+46,52,width (normalized) Δrelax 2nd NN,width (normalized) Δshear,3,-0.5168,0.e-5,------,-,True
+46,52,width (normalized) Δrelax 2nd NN,width (normalized) Δshear,2,-0.4394,0.e-5,-----,-,True

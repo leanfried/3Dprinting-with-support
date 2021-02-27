@@ -1,0 +1,16 @@
+\centering\begin{tabular}{lcccccccccc|cccccccc}
+&\multicolumn{10}{c|}{Transverse flows}&\multicolumn{8}{c}{Particle distributions}\\
+\rotatebox{90}{}\rotatebox{90}{ahead}\rotatebox{90}{nozzle}\rotatebox{90}{just behind}\rotatebox{90}{behind outer}\rotatebox{90}{far behind}\rotatebox{90}{behind NN}\rotatebox{90}{behind 2NN}\rotatebox{90}{outer}\rotatebox{90}{NN}\rotatebox{90}{2NN}\rotatebox{90}{Initial pos}\rotatebox{90}{Initial width}\rotatebox{90}{$\Delta$ pos relax NN}\rotatebox{90}{$\Delta$ pos relax 2NN}\rotatebox{90}{$\Delta$ width relax NN}\rotatebox{90}{$\Delta$ width relax 2NN}\rotatebox{90}{$\Delta$pos shear}\rotatebox{90}{$\Delta$width shear}\\
+\multicolumn{9}{l}{\textbf{Layer-by-layer}}\\
+Plastic zone &  & \textcolor{Gray}{\textit{-2}} &  & 1 & 2 & 2 & 1 & \textcolor{Gray}{\textit{-1}} &  & 2 & 1 &  & \textcolor{Gray}{\textit{-4}} & 2 & \textcolor{Gray}{\textit{-3}} & \textcolor{Gray}{\textit{-5}} &  & \\
+Disturbed zone & \textcolor{Gray}{\textit{-1}} &  &  & 6 & 2 & \textcolor{Gray}{\textit{-5}} & \textcolor{Gray}{\textit{-3}} &  & 3 & 3 & \textcolor{Gray}{\textit{-6}} &  & \textcolor{Gray}{\textit{-4}} & 2 & \textcolor{Gray}{\textit{-2}} & \textcolor{Gray}{\textit{-3}} & \textcolor{Gray}{\textit{-2}} & \textcolor{Gray}{\textit{-2}}\\
+Capillary spreading &  & \textcolor{Gray}{\textit{-2}} &  & 2 & 2 & 2 & 1 &  &  & 2 & 1 & 59 & 1 & 2 & 2 &  & \textcolor{Gray}{\textit{-3}} & 1\\
+Gravity spreading &  & \textcolor{Gray}{\textit{-2}} &  & 2 & 2 & 2 & 1 &  &  & 2 & 1 & 54 & 1 & 2 & 3 &  & \textcolor{Gray}{\textit{-3}} & 3\\
+Settling &  &  &  &  &  & \textcolor{Gray}{\textit{-3}} & \textcolor{Gray}{\textit{-1}} &  & 1 & \textcolor{Gray}{\textit{-1}} &  & \textcolor{Gray}{\textit{-2}} &  &  & 2 &  &  & \\
+\multicolumn{9}{l}{\textbf{Bath}}\\
+Plastic zone &  & 3 & \textcolor{Gray}{\textit{-3}} & 3 & \textcolor{Gray}{\textit{-2}} & 5 & 3 & 4 & 2 & \textcolor{Gray}{\textit{-1}} & 4 & 5 &  & 2 & \textcolor{Gray}{\textit{-9}} & \textcolor{Gray}{\textit{-2}} &  & \\
+Disturbed zone & 3 & 6 & \textcolor{Gray}{\textit{-3}} & 7 & \textcolor{Gray}{\textit{-2}} & \textcolor{Gray}{\textit{-3}} & \textcolor{Gray}{\textit{-1}} & 2 & 4 &  & 4 & 5 &  & 2 & \textcolor{Gray}{\textit{-5}} & 2 & \textcolor{Gray}{\textit{-2}} & \textcolor{Gray}{\textit{-3}}\\
+Capillary spreading &  & 3 & \textcolor{Gray}{\textit{-3}} & 3 & \textcolor{Gray}{\textit{-2}} & 5 & 4 & 4 & \textcolor{Gray}{\textit{-3}} & \textcolor{Gray}{\textit{-1}} & 4 & 40 & \textcolor{Gray}{\textit{-2}} & 2 &  & 2 & 1 & 2\\
+Gravity spreading &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \\
+Settling &  &  &  &  &  & \textcolor{Gray}{\textit{-5}} & \textcolor{Gray}{\textit{-4}} & \textcolor{Gray}{\textit{-3}} &  & 1 &  & \textcolor{Gray}{\textit{-2}} &  &  & 2 & 2 &  & 
+\end{tabular}

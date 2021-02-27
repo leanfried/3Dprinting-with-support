@@ -1,0 +1,16 @@
+\begin{enumerate}
+	\item On pass 1, 2, and 3, respectively, transverse flows in line with the nozzle are outward, nil, and slightly inward, leading to an average outward (negative) flow
+	\item On pass 1, 2, and 3, respectively, transverse flows in line with the nozzle are nil, nil, and slightly inward, leading to an average inward (positive) flow.
+	\item On pass 1, 2, and 3, respectively, transverse flows in line with the nozzle are outward, nil, and outward, leading to an average outward (negative) flow.
+	\item Flow of the yielded support material compresses the written ink line.
+	\item On pass 1, 2, and 3, respectively, transverse flows in line with the nozzle are outward, nil, and slightly inward, leading to an inward (positive) increase in transverse flow velocity with pass number.
+	\item On successive passes, with decreasing ink viscosity, and with faster speeds, the ink line compresses more because, respectively, the deposited line is more bounded, less resistant to flow, and less resistant to flow due to increased shear rate at fast speeds.
+	\item Flow of the yielded support material compresses the written ink line. lot less, then little more
+	\item More TEGDMA lowers the viscosity of the ink, enabling more flow.
+	\item Increasing the translation speed increases the size of the plastic zone.
+	\item On pass 1, 2, and 3, respectively, transverse flows in line with the nozzle are nil, slightly inward, and slightly inward, leading to an average inward (positive) flow.
+	\item Ink flows inward on all passes.
+	\item Ink in the nearest neighbors shifts outward on the first pass during relaxation, then slightly shifts inward on successive passes.
+	\item The inner boundary becomes more compliant, and the outer boundary becomes less compliant on successive passes.
+	\item The ink becomes much less bounded on pass 2, then only slightly more bounded on pass 3.
+\end{enumerate}

@@ -1,0 +1,13 @@
+\centering\begin{tabular}{lcccc}
+	 & Initial width & $\Delta$width relax NN & $\Delta$width relax 2nd NN & $\Delta$width shear\\
+	\multicolumn{5}{l}{\textbf{Layer-by-layer}}\\
+	Initial width &  & - - - - & - - & -\\
+	$\Delta$width relax NN &  &  & +++ & - - -\\
+	$\Delta$width relax 2nd NN &  &  &  & - - - - -\\
+	$\Delta$width shear &  &  &  & \\
+	\multicolumn{5}{l}{\textbf{Bath}}\\
+	Initial width &  & - - - - &  & - -\\
+	$\Delta$width relax NN &  &  & ++ & - - -\\
+	$\Delta$width relax 2nd NN &  &  &  & - - - - - -\\
+	$\Delta$width shear &  &  &  & 
+\end{tabular}

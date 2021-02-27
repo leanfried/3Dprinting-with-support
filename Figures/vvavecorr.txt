@@ -1,0 +1,25 @@
+\centering\begin{tabular}{lcccccccccc}
+	 & nozzle & ahead & just behind & behind outer & far behind & behind NN & behind 2NN & outer & NN & 2NN\\
+	\multicolumn{11}{l}{\textbf{Layer-by-layer}}\\
+	nozzle &  & ++ & - &  &  &  & + &  & ++ & ++\\
+	ahead &  &  &  & ++ &  & - &  & ++ & ++ & +\\
+	just behind &  &  &  & ++ & ++++ & +++ & + & ++ & +++ & ++\\
+	behind outer &  &  &  &  & +++ & + & ++ & +++ & + & +\\
+	far behind &  &  &  &  &  & +++ & ++ & + & +++ & ++\\
+	behind NN &  &  &  &  &  &  & +++ & + & ++ & ++\\
+	behind 2NN &  &  &  &  &  &  &  &  & + & ++\\
+	outer &  &  &  &  &  &  &  &  & + & +\\
+	NN &  &  &  &  &  &  &  &  &  & +++\\
+	2NN &  &  &  &  &  &  &  &  &  & \\
+	\multicolumn{11}{l}{\textbf{Bath}}\\
+	nozzle &  &  & ++ &  & + & + &  & + & ++ & +\\
+	ahead &  &  & - & + & + & - & - & ++ & ++ & \\
+	just behind &  &  &  & ++ & ++++ & ++ & + & ++ & +++ & ++\\
+	behind outer &  &  &  &  & + & - - & - - - & + &  & -\\
+	far behind &  &  &  &  &  & +++++ & +++ & ++ & ++ & ++\\
+	behind NN &  &  &  &  &  &  & +++++ & + & + & ++\\
+	behind 2NN &  &  &  &  &  &  &  & + &  & ++\\
+	outer &  &  &  &  &  &  &  &  & + & +\\
+	NN &  &  &  &  &  &  &  &  &  & +++\\
+	2NN &  &  &  &  &  &  &  &  &  & 
+\end{tabular}

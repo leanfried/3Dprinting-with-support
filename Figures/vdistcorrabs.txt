@@ -1,0 +1,21 @@
+\centering\begin{tabular}{lcccccccccc}
+	 & nozzle & ahead & just behind & behind outer & far behind & behind NN & behind 2NN & outer & NN & 2NN\\
+	\multicolumn{11}{l}{\textbf{Layer-by-layer}}\\
+	Initial position & + & + &  & + & - & - & - & + & - & -\\
+	Relaxed position NN &  & + & + & + &  &  &  & ++ &  & \\
+	Relaxed position 2nd NN &  &  & + &  &  &  &  & ++ & + & \\
+	Sheared position & - &  &  & + & - & - & - & + & - & -\\
+	Initial width & - & + & - & ++ &  &  & + &  &  & +\\
+	Relaxed width NN &  &  & + & + & + &  &  & - &  & +\\
+	Relaxed width 2nd NN &  &  &  & + &  &  &  &  &  & \\
+	Sheared width &  &  &  & + & + & + & + & - &  & +\\
+	\multicolumn{11}{l}{\textbf{Bath}}\\
+	Initial position &  & - &  & + & + & + & + & + & - & -\\
+	Relaxed position NN & - & - &  & + &  &  &  &  & - & +\\
+	Relaxed position 2nd NN & - & - &  & - &  & + & ++ &  &  & +\\
+	Sheared position &  & - &  & + &  & + &  &  & - & -\\
+	Initial width &  & + & + & +++ & + & - - & - - & - & + & -\\
+	Relaxed width NN & - & + &  & ++ &  & - & - - & - - & + & -\\
+	Relaxed width 2nd NN &  & + & + & + & + &  & - - &  & ++ & \\
+	Sheared width &  & + & - &  &  & - & - & - & + & 
+\end{tabular}

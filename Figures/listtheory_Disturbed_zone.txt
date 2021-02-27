@@ -1,0 +1,8 @@
+\begin{enumerate}
+	\item The disturbed zone is larger on the inner edge than the outer edge.
+	\item The disturbed zone narrows behind the nozzle.
+	\item The disturbed zone widens at the nozzle.
+	\item On successive passes, the inner side of the disturbed zone grows due to a more compliant inner boundary, while the outer disturbed zone shrinks due to a less compliant outer boundary.
+	\item The Oldroyd number decreases on the inner edge by less than it increases on the outer edge.
+	\item Increasing the TEGDMA concentration in the ink and increasing the print speed elongates and narrows the disturbed zone.
+\end{enumerate}

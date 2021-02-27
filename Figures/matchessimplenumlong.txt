@@ -1,0 +1,16 @@
+\centering\begin{tabular}{lcccccccc|cccc}
+&\multicolumn{8}{c|}{Transverse flows}&\multicolumn{4}{c}{Particle distributions}\\
+\rotatebox{90}{}\rotatebox{90}{ahead}\rotatebox{90}{nozzle}\rotatebox{90}{just behind}\rotatebox{90}{behind outer}\rotatebox{90}{far behind}\rotatebox{90}{behind right}\rotatebox{90}{outer}\rotatebox{90}{right}\rotatebox{90}{Initial}\rotatebox{90}{$\Delta$relax NN}\rotatebox{90}{$\Delta$relax 2NN}\rotatebox{90}{$\Delta$shear}\\
+\multicolumn{9}{l}{\textbf{Layer-by-layer}}\\
+Plastic zone &  & \textcolor{Gray}{\textit{-2}} &  & 1 & 2 & 1 & \textcolor{Gray}{\textit{-1}} & 1 &  & \textcolor{Gray}{\textit{-4}} & \textcolor{Gray}{\textit{-1}} & \\
+Disturbed zone & \textcolor{Gray}{\textit{-1}} &  &  & 6 & 2 & \textcolor{Gray}{\textit{-4}} &  & 3 & \textcolor{Gray}{\textit{-3}} & \textcolor{Gray}{\textit{-3}} &  & \textcolor{Gray}{\textit{-2}}\\
+Capillary spreading &  & \textcolor{Gray}{\textit{-2}} &  & 2 & 2 & 1 &  & 1 & 30 & 1 & 1 & \textcolor{Gray}{\textit{-1}}\\
+Gravity spreading &  & \textcolor{Gray}{\textit{-2}} &  & 2 & 2 & 1 &  & 1 & 27 & 2 & 1 & \\
+Settling &  &  &  &  &  & \textcolor{Gray}{\textit{-2}} &  &  & \textcolor{Gray}{\textit{-1}} & 1 &  & \\
+\multicolumn{9}{l}{\textbf{Bath}}\\
+Plastic zone &  & 3 & \textcolor{Gray}{\textit{-3}} & 3 & \textcolor{Gray}{\textit{-2}} & 4 & 4 &  & 4 & \textcolor{Gray}{\textit{-4}} &  & \\
+Disturbed zone & 3 & 6 & \textcolor{Gray}{\textit{-3}} & 7 & \textcolor{Gray}{\textit{-2}} & \textcolor{Gray}{\textit{-2}} & 2 & 2 & 4 & \textcolor{Gray}{\textit{-2}} & 2 & \textcolor{Gray}{\textit{-2}}\\
+Capillary spreading &  & 3 & \textcolor{Gray}{\textit{-3}} & 3 & \textcolor{Gray}{\textit{-2}} & 4 & 4 & \textcolor{Gray}{\textit{-2}} & 22 & \textcolor{Gray}{\textit{-1}} & 2 & 2\\
+Gravity spreading &  &  &  &  &  &  &  &  &  &  &  & \\
+Settling &  &  &  &  &  & \textcolor{Gray}{\textit{-4}} & \textcolor{Gray}{\textit{-3}} & 1 & \textcolor{Gray}{\textit{-1}} & 1 & 1 & 
+\end{tabular}

@@ -1,0 +1,14 @@
+\begin{enumerate}
+	\item The transverse component of the contact line velocity is greater on glass than on support because the support is sloped.
+	\item Adding another ink line pulls existing ink lines outwards (negative).
+	\item The contact lines travel in opposite directions.
+	\item Only the outer edge of the nearest neighbor is pulled outward.
+	\item Ink wets ink more strongly than it wets support, so the existing lines on later passes pull the new line inward (positive) more strongly than the support did.
+	\item Higher TEGDMA concentrations decrease the viscosity of the ink, decreasing its resistance to flow.
+	\item Faster flow speeds increase the shear strain rate on the ink and decrease its viscosity, decreasing its resistance to flow.
+	\item Faster translation speeds decrease the relaxation time, decreasing the change during relaxation.
+	\item Because the support boundary conditions are symmetric, the only shift in the new line due to capillarity happens because existing ink pulls the new line inwards.
+	\item Only the outer edge of the nearest neighbor is pulled outward., other stay
+	\item On successive passes, more ink-ink contact lines are introduced, increasing the inward pull on the new line.
+	\item On successive passes, more ink-ink contact lines are introduced, increasing the outward pull on the existing line.
+\end{enumerate}

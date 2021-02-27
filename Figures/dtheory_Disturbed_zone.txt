@@ -1,0 +1,12 @@
+\centering\begin{tabular}{llcccccccc}
+ &  & \rotatebox{90}{Initial position} & \rotatebox{90}{$\Delta$position relax NN} & \rotatebox{90}{$\Delta$position relax 2NN} & \rotatebox{90}{$\Delta$position shear} & \rotatebox{90}{Initial width} & \rotatebox{90}{$\Delta$width relax NN} & \rotatebox{90}{$\Delta$width relax 2NN} & \rotatebox{90}{$\Delta$width shear}\\
+\multirow{4}{*}{Layer by layer} & Average & -$^{1}$ & -$^{1}$ & -$^{2}$ & +$^{3}$ &  & -$^{2}$ & + & -\\
+ & Change w/ pass & +$^{4}$ & +$^{4}$ &  & +$^{4}$ & -$^{5}$ & -$^{4}$ &  & -$^{4}$\\
+ & Change w/ TEGDMA & +$^{6}$ & -$^{6}$ & +$^{6}$ & -$^{6}$ & -$^{6}$ & -$^{6}$ & -$^{6}$ & +$^{6}$\\
+ & Change w/ speed & +$^{6}$ & -$^{6}$ & +$^{6}$ & -$^{6}$ & -$^{6}$ & -$^{6}$ & -$^{6}$ & +$^{6}$\\
+\hline
+\multirow{4}{*}{Bath} & Average & +$^{1}$ & +$^{1}$ & -$^{2}$ & +$^{3}$ &  & -$^{2}$ & + & -\\
+ & Change w/ pass & +$^{4}$ & +$^{4}$ & +$^{4}$ & +$^{4}$ & +$^{4}$ & -$^{4}$ &  & -\\
+ & Change w/ TEGDMA & -$^{6}$ & +$^{6}$ & +$^{6}$ & -$^{6}$ & -$^{6}$ & -$^{6}$ & -$^{6}$ & +$^{6}$\\
+ & Change w/ speed & -$^{6}$ & +$^{6}$ & +$^{6}$ & -$^{6}$ & -$^{6}$ & -$^{6}$ & -$^{6}$ & +$^{6}$
+\end{tabular}

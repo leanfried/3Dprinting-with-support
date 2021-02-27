@@ -1,0 +1,12 @@
+\centering\begin{tabular}{llcccccccccccccccccc}
+ &  & \rotatebox{90}{nozzle} & \rotatebox{90}{ahead} & \rotatebox{90}{just behind} & \rotatebox{90}{behind outer} & \rotatebox{90}{far behind} & \rotatebox{90}{behind NN} & \rotatebox{90}{behind 2NN} & \rotatebox{90}{outer} & \rotatebox{90}{NN} & \rotatebox{90}{2NN} & \rotatebox{90}{Initial position} & \rotatebox{90}{$\Delta$position relax NN} & \rotatebox{90}{$\Delta$position relax 2NN} & \rotatebox{90}{$\Delta$position shear} & \rotatebox{90}{Initial width} & \rotatebox{90}{$\Delta$width relax NN} & \rotatebox{90}{$\Delta$width relax 2NN} & \rotatebox{90}{$\Delta$width shear}\\
+\multirow{4}{*}{Layer by layer} & Average & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & -$^{1}$ & +$^{2}$ & +$^{2}$ & +$^{2}$ & +$^{2}$\\
+ & $\Delta$, pass & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$ & +$^{3}$ &  & +$^{3}$ & -$^{4}$ & -$^{4}$ &  & -$^{4}$\\
+ & $\Delta$, TEGDMA & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & +$^{5}$ & +$^{5}$ & +$^{5}$ & +$^{5}$\\
+ & $\Delta$, speed & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & -$^{5}$ & +$^{6}$ & +$^{6}$ & -$^{5}$ & +$^{5}$ & -$^{6}$ & -$^{6}$ & +$^{5}$\\
+\hline
+\multirow{4}{*}{Bath} & Average &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \\
+ & $\Delta$, pass &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \\
+ & $\Delta$, TEGDMA &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \\
+ & $\Delta$, speed &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & 
+\end{tabular}

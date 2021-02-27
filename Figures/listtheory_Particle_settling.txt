@@ -1,0 +1,9 @@
+\begin{enumerate}
+	\item Because settling is symmetric, flows in line with the nozzle are net nil.
+	\item Settling causes the particles to spread outward, resulting in inward (positive) flows inward of the nozzle in the nearest neighbors and outward (negative) flows outward of the nozzle on the left.
+	\item Settling increases the distribution width.
+	\item Settling involves movement of particles through the bulk, so boundary conditions do not specifically influence settling.
+	\item Increasing the TEGDMA concentration decreases the ink viscosity, increasing the terminal velocity of the settling particles.
+	\item Increasing the flow speed increases the shear rate on the ink, decreasing its viscosity and increasing the terminal velocity of the settling particles.
+	\item Increasing the translation speed decreases the relaxation time, decreasing changes due to relaxation.
+\end{enumerate}

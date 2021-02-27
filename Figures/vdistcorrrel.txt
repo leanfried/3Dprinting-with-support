@@ -1,0 +1,21 @@
+\centering\begin{tabular}{lcccccccccc}
+	 & nozzle & ahead & just behind & behind outer & far behind & behind NN & behind 2NN & outer & NN & 2NN\\
+	\multicolumn{11}{l}{\textbf{Layer-by-layer}}\\
+	Initial pos & + & ++ & - &  & - & - & - & ++ &  & \\
+	$\Delta$pos relax NN & - &  & + & + & + & + & + &  &  & \\
+	$\Delta$pos relax 2nd NN &  & - & + & + & + & ++ & + & + & + & \\
+	$\Delta$pos shear &  &  & - &  & - & - & - & - & - & -\\
+	Initial width & - & + &  & +++ & + & + & + & + &  & \\
+	$\Delta$width relax NN & + &  &  & - - & + &  &  & - &  & \\
+	$\Delta$width relax 2nd NN &  & + &  &  &  & - & - & + &  & \\
+	$\Delta$width shear &  & - &  & - &  & + &  & - &  & +\\
+	\multicolumn{11}{l}{\textbf{Bath}}\\
+	Initial pos &  & - &  & + & + & + & + & + & - - & -\\
+	$\Delta$pos relax NN & - &  &  &  & - & - &  & - & + & ++\\
+	$\Delta$pos relax 2nd NN & - &  &  & - - &  & + & + & + &  & ++\\
+	$\Delta$pos shear & + &  &  &  &  &  &  &  &  & - -\\
+	Initial width &  & + & + & +++ & + & - - & - - & - & ++ & -\\
+	$\Delta$width relax NN & - & - & - & - - & - &  &  &  & - - & \\
+	$\Delta$width relax 2nd NN &  &  & + & ++ &  & - & - & + &  & -\\
+	$\Delta$width shear & + &  & - & - - &  & ++ & ++ &  & + & ++
+\end{tabular}

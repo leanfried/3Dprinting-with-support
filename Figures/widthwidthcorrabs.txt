@@ -1,0 +1,13 @@
+\centering\begin{tabular}{lcccc}
+	 & Initial width & Relaxed width NN & Relaxed width 2nd NN & Sheared width\\
+	\multicolumn{5}{l}{\textbf{Layer-by-layer}}\\
+	Initial width &  & +++ & ++ & +++\\
+	Relaxed width NN &  &  & ++ & +++\\
+	Relaxed width 2nd NN &  &  &  & ++\\
+	Sheared width &  &  &  & \\
+	\multicolumn{5}{l}{\textbf{Bath}}\\
+	Initial width &  & +++ & ++ & ++\\
+	Relaxed width NN &  &  & ++ & ++\\
+	Relaxed width 2nd NN &  &  &  & ++\\
+	Sheared width &  &  &  & 
+\end{tabular}

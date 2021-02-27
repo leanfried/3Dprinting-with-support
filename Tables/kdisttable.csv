@@ -1,0 +1,65 @@
+dist,dist mode,x var,sup,tau,p,sign+,sign,significant
+Initial pos,1,0,Bath,0.05083595354809361,0,+,+,True
+Initial pos,1,0,LBL,0.05126654625121458,0,+,+,True
+Δrelax NN pos,2,0,Bath,-0.05571786160192307,0,-,-,True
+Δrelax NN pos,2,0,LBL,-0.04363160006064102,0,-,-,True
+Δrelax 2nd NN pos,3,0,Bath,-0.1215880493076923,0,-,-,True
+Δrelax 2nd NN pos,3,0,LBL,-0.13678789816153847,0,-,-,True
+Δshear pos,4,0,Bath,0.07725663914736736,0,+,+,True
+Δshear pos,4,0,LBL,0.047435966839320796,0,+,+,True
+Initial width,5,0,Bath,0.8281664292919105,0,+,+,True
+Initial width,5,0,LBL,0.8426964858299596,0,+,+,True
+Δrelax NN width,6,0,Bath,0.05205791666666666,0,+,+,True
+Δrelax NN width,6,0,LBL,0.03547035256410257,0,+,+,True
+Δrelax 2nd NN width,7,0,Bath,0.03619575641025641,0,+,+,True
+Δrelax 2nd NN width,7,0,LBL,0.012669141025641026,0,+,+,True
+Δshear width,8,0,Bath,0.02248310632242326,0,+,+,True
+Δshear width,8,0,LBL,0.0355133517495396,0,+,+,True
+Initial pos,1,9,Bath,0.0363,0.0009,+,+,True
+Initial pos,1,9,LBL,-0.0749,0.e-5,-,-,True
+Δrelax NN pos,2,9,Bath,0.0264,0.2017,,,False
+Δrelax NN pos,2,9,LBL,-0.0316,0.1263,,,False
+Δrelax 2nd NN pos,3,9,Bath,,,,,
+Δrelax 2nd NN pos,3,9,LBL,,,,,
+Δshear pos,4,9,Bath,-0.0295,0.0386,-,-,True
+Δshear pos,4,9,LBL,-0.1152,0.e-5,--,-,True
+Initial width,5,9,Bath,0.0642,0.e-5,+,+,True
+Initial width,5,9,LBL,0.1573,0.e-5,++,+,True
+Δrelax NN width,6,9,Bath,-0.0498,0.0161,-,-,True
+Δrelax NN width,6,9,LBL,-0.041,0.0477,-,-,True
+Δrelax 2nd NN width,7,9,Bath,,,,,
+Δrelax 2nd NN width,7,9,LBL,,,,,
+Δshear width,8,9,Bath,0.0325,0.0224,+,+,True
+Δshear width,8,9,LBL,-0.0615,0.e-4,-,-,True
+Initial pos,1,1,Bath,0.0331,0.0018,+,+,True
+Initial pos,1,1,LBL,-0.046,0.e-4,-,-,True
+Δrelax NN pos,2,1,Bath,0.0135,0.4731,,,False
+Δrelax NN pos,2,1,LBL,0.0575,0.0023,+,+,True
+Δrelax 2nd NN pos,3,1,Bath,0.002,0.9395,,,False
+Δrelax 2nd NN pos,3,1,LBL,0.0165,0.536,,,False
+Δshear pos,4,1,Bath,0.031,0.0035,+,+,True
+Δshear pos,4,1,LBL,-0.0058,0.5871,,,False
+Initial width,5,1,Bath,-0.0812,0.e-5,-,-,True
+Initial width,5,1,LBL,-0.1063,0.e-5,--,-,True
+Δrelax NN width,6,1,Bath,0.053,0.005,+,+,True
+Δrelax NN width,6,1,LBL,0.0228,0.2271,,,False
+Δrelax 2nd NN width,7,1,Bath,0.0431,0.1067,,,False
+Δrelax 2nd NN width,7,1,LBL,0.0574,0.0317,+,+,True
+Δshear width,8,1,Bath,-0.031,0.0035,-,-,True
+Δshear width,8,1,LBL,-0.0286,0.0074,-,-,True
+Initial pos,1,2,Bath,-0.097,0.e-5,-,-,True
+Initial pos,1,2,LBL,-0.0301,0.0046,-,-,True
+Δrelax NN pos,2,2,Bath,0.0431,0.0282,+,+,True
+Δrelax NN pos,2,2,LBL,0.0627,0.0014,+,+,True
+Δrelax 2nd NN pos,3,2,Bath,-0.0076,0.7855,,,False
+Δrelax 2nd NN pos,3,2,LBL,-0.0253,0.3624,,,False
+Δshear pos,4,2,Bath,-0.0259,0.0148,-,-,True
+Δshear pos,4,2,LBL,-0.0058,0.5862,,,False
+Initial width,5,2,Bath,0.0128,0.2252,,,False
+Initial width,5,2,LBL,-0.0022,0.8363,,,False
+Δrelax NN width,6,2,Bath,0.091,0.e-5,+,+,True
+Δrelax NN width,6,2,LBL,0.0104,0.5948,,,False
+Δrelax 2nd NN width,7,2,Bath,0.0222,0.4246,,,False
+Δrelax 2nd NN width,7,2,LBL,0.0574,0.039,+,+,True
+Δshear width,8,2,Bath,0.0244,0.0219,+,+,True
+Δshear width,8,2,LBL,0.0061,0.5674,,,False
